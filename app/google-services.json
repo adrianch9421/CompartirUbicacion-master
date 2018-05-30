@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "99613654160",
+    "firebase_url": "https://alertamber-adrian.firebaseio.com",
+    "project_id": "alertamber-adrian",
+    "storage_bucket": "alertamber-adrian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99613654160:android:7df0e5ff3ab21ffd",
+        "android_client_info": {
+          "package_name": "com.example.adrian.adrian_proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99613654160-r1iebdehbjep0gf32c5jd2n7ptgp7p99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adrian.adrian_proyecto_final",
+            "certificate_hash": "9bec3f8881384559a3bff956d8c2e85b32c656d5"
+          }
+        },
+        {
+          "client_id": "99613654160-qosnicj571a37buqj48l86ntmqeuos4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAQo-KW_OxXdNeW1JVCbI_qVfW8rQhDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99613654160-qosnicj571a37buqj48l86ntmqeuos4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99613654160:android:aa75e1b69c88bd75",
+        "android_client_info": {
+          "package_name": "com.example.adrian.compartirubicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99613654160-8vi3bl227sbrht2lppk01nt9navu0a7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adrian.compartirubicacion",
+            "certificate_hash": "9bec3f8881384559a3bff956d8c2e85b32c656d5"
+          }
+        },
+        {
+          "client_id": "99613654160-qosnicj571a37buqj48l86ntmqeuos4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAQo-KW_OxXdNeW1JVCbI_qVfW8rQhDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99613654160-qosnicj571a37buqj48l86ntmqeuos4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
